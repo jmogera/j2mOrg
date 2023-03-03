@@ -1,0 +1,18 @@
+
+import { AppLayout } from '@j2m-org/shared/ui';
+export function Index() {
+  /*
+   * Replace the elements below with your own.
+   *
+   * Note: The corresponding styles are in the ./index.css file.
+   */
+  return (
+    <>
+      <AppLayout>
+        <h1>Test</h1>
+      </AppLayout>
+    </>
+  );
+}
+
+export default Index;

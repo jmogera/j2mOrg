@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "projects": {
+    "fin-app": "apps/fin-app",
+    "fin-app-e2e": "apps/fin-app-e2e",
+    "shared-ui": "libs/shared/ui",
+    "storybook-e2e-ui-e2e": "apps/storybook-e2e/ui-e2e"
+  }
+}
